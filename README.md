@@ -25,21 +25,6 @@ Welcome to the **PhonePe Dashboard** — a full-stack data visualization project
 | Data Tools  | GitPython, JSON    |
 
 ---
-
-## 📂 Project Structure
-
-```
-📁 PhonePe-Pulse-Dashboard/
-├── 📁 data_extraction/       # Scripts for extracting and processing JSON data
-├── 📁 database/              # MySQL setup and data loading
-├── 📁 dashboard/             # Streamlit dashboard app
-├── 📁 utils/                 # Helper functions
-├── app.py                   # Unified app script (optional)
-├── README.md                # Project overview
-```
-
----
-
 ## ⚙️ How It Works
 
 1. **Git Clone & JSON Load**  
