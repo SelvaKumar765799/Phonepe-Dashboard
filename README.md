@@ -54,6 +54,8 @@ Welcome to the **PhonePe Dashboard** — a full-stack data visualization project
 
 ![image](https://github.com/user-attachments/assets/19292013-16ad-4553-9d04-c2c0908b7238)
 
+![image](https://github.com/user-attachments/assets/8c6db833-037a-4f5e-8ce7-60aea0728600)
+
 
 ## 🧠 Insights Delivered
 
